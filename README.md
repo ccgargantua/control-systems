@@ -15,6 +15,7 @@ The following list of dependencies can also be found in `requirements.txt`, and 
 * `sympy`
 * `ipywidgets`
 * `IPython`
+* `pandas`
 
 
 ## Resources

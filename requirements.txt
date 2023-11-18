@@ -5,3 +5,4 @@ matplotlib==3.8.1
 sympy==1.12
 ipywidgets==8.1.1
 IPython==8.17.2
+pandas==2.1.3
