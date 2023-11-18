@@ -1,0 +1,7 @@
+numpy==1.26.2
+scipy==1.11.3
+control==0.9.4
+matplotlib==3.8.1
+sympy==1.12
+ipywidgets==8.1.1
+IPython==8.17.2
